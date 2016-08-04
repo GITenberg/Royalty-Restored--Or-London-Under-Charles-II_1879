@@ -1,0 +1,28 @@
+_repo: Royalty-Restored--Or-London-Under-Charles-II_1879
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Molloy, J. Fitzgerald (Joseph Fitzgerald)
+    alias: Molloy, Joseph Fitzgerald
+    birthdate: 1858
+    deathdate: 1908
+    gutenberg_agent_id: '732'
+    url: http://www.gutenberg.org/2009/agents/732
+description: ''
+gutenberg_issued: '1999-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1879'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Charles II, King of England, 1630-1685'
+- !lcsh 'London (England) -- History -- 17th century'
+- !lcsh 'England -- Social life and customs -- 17th century'
+- !lcsh 'Great Britain -- Court and courtiers -- History -- 17th century'
+- GITenberg
+title: Royalty Restored; Or, London Under Charles II
+url: http://www.gutenberg.org/ebooks/1879
